@@ -1,3 +1,3 @@
 # Hello-world
-新手仓库，多多指教！
+It's a greenhand's work!
 ***read me***
